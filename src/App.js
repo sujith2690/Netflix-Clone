@@ -13,13 +13,13 @@ function App() {
     <RowPoster url={Action} title= 'Action' />
     <RowPoster url={Horror} title= 'Horror' isSmall/>
     <RowPoster url={Originals} title='Netflix Orginals' isSmall/>
-    <RowPoster url={Adventure} title='Drama' isSmall/>
-    <RowPoster url={Animation} title='Drama' isSmall/>
-    <RowPoster url={Crime} title='Drama' isSmall/>
-    <RowPoster url={Documentory} title='Drama' isSmall/>
+    <RowPoster url={Adventure} title='Adventure' isSmall/>
+    <RowPoster url={Animation} title='Animation' isSmall/>
+    <RowPoster url={Crime} title='Crime' isSmall/>
+    <RowPoster url={Documentory} title='Documentary' isSmall/>
     <RowPoster url={Drama} title='Drama' isSmall/>
-    <RowPoster url={ScienceFiction} title='Drama' isSmall/>
-    <RowPoster url={Comedy} title='Drama' isSmall/>
+    <RowPoster url={ScienceFiction} title='Science Fiction' isSmall/>
+    <RowPoster url={Comedy} title='Comedy' isSmall/>
 
   </div>
   );
